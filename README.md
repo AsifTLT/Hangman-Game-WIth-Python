@@ -1,6 +1,6 @@
 🚀 Project: Hangman Game with Python 🐍
 
-🔗 If You Run This Project And get the Preview! here is Repl Link: https://stackblitz.com/~/github.com/AsifTLT/Hangman-Game-WIth-Python
+🔗 If You Run This Project And get the Preview! here is vscode browser Link : https://stackblitz.com/~/github.com/AsifTLT/Hangman-Game-WIth-Python
 
 
 🎉 I have given a preview image of this project in the thumbnail option of the settings. If you want to see then click on settings option..
